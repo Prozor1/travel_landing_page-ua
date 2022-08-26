@@ -1419,7 +1419,7 @@ img {
 
    .benefits_card {
       grid-column: span 3;
-      margin-bottom: 45px;
+      margin-bottom: 40px;
    }
 
    .benefits_card-pic {
