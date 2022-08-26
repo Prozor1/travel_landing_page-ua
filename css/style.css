@@ -1305,7 +1305,7 @@ img {
 @media screen and (max-width: 767px) {
 
    .section-title {
-      margin-bottom: 26px;
+      margin-bottom: 25px;
    }
 
    .section-title::after {
